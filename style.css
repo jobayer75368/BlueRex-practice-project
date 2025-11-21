@@ -322,7 +322,7 @@
             justify-content: center;
             align-items: center;
             text-align: center;
-            background: url("story.png");
+            background: url("./story.png");
             background-size: cover;
             background-position: center;
             width: 100%;
@@ -1052,5 +1052,6 @@
     
 
 }
+
 
 
